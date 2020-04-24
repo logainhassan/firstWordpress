@@ -1,0 +1,134 @@
+.single-post{
+    margin-top: 10px;
+}
+.post-item{
+    margin-bottom: 24px ; 
+}
+
+nav ul li{
+    margin-right: 16px;
+}
+
+
+html { 
+    background: url(https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 30px;
+}
+.navbar-light a{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #f2aa90;
+}
+
+.text-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+      
+}
+.container-fluid{
+    position: absolute;
+    margin-top: 700px;
+    background: #302d57;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 100px;
+    text-align: center;
+}
+.row .col-6{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.row .col-6 h1 {
+    font-size: 3.5rem;
+    color: white;
+    font-family: initial;
+    margin-bottom: 30px;
+}
+.row .col-6 h4 {
+    color: darksalmon;
+    font-size: 32px;
+    font-family: cursive;
+}
+.row .col-3 {
+   margin:110px;
+   padding-left: 130px;
+}
+.image img{
+    border-radius: 50%;
+}
+.text-center h2{
+    font-size: 100px;
+    color: cornsilk;
+}
+.text-center h3{
+    font-size: 60px;
+    color: cornsilk;
+}
+.text-center p{
+    font-size: 50px;
+    color: #f2aa90;
+}
+.row .col-md-6 a{
+    color: white;
+}
+.row .col-md-6 h2{
+    margin-bottom: 25px;
+}
+
+.row .col-md-12 a{
+    color: white;
+}
+.row .col-md-12 h2{
+    font-size: 3rem;
+}
+.row .col-md-12 h3{
+    font-size: 2.75rem;
+}
+.row .col-md-12 h4{
+    font-size: 2.5rem;
+}
+.row .col-md-12 h5{
+    font-size: 2.25rem;
+}
+
+.skill{
+    background: #aeb2e3;
+    padding: 4px;
+    box-sizing: border-box;
+    border: 1px solid #161515;
+    border-radius: 2px;
+    margin-top:8px;
+}
+.skill_level{
+    
+    background: #e39c31;
+    width: 100%;
+    height: 10px;
+}
+.skillBox{
+    margin-top: 100px;
+}
